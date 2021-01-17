@@ -18,6 +18,7 @@ namespace ConsoleApp8
             int[] result = s.PlusOne(digits);
             Console.WriteLine(string.Join("",result));
             Console.WriteLine("test");
+            Console.WriteLine("test2");
         }       
     }
     public class Solution
