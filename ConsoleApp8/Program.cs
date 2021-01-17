@@ -17,7 +17,7 @@ namespace ConsoleApp8
             int[] digits = {9,9,9,9};
             int[] result = s.PlusOne(digits);
             Console.WriteLine(string.Join("",result));
-            Console.WriteLine("test");
+            Console.WriteLine("test1");
             Console.WriteLine("test2");
         }       
     }
